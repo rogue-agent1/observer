@@ -1,11 +1,11 @@
 # observer
 
-Observer/pub-sub design pattern.""".
+observer: Observer/pub-sub pattern implementation.
 
-Zero dependencies. Python 3.8+.
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python3 observer.py --help
+python3 observer.py test
 ```
